@@ -59,10 +59,7 @@
 
 <br/>
 
-## 🏆 Achievements
-- 🥇 Solved **400+ problems** on LeetCode, Codeforces and GeeksforGeeks
-- 🎖️ **Top 7%** in NPTEL IoT Certification Exam
-- 🏅 **Top 2%** nationwide in NPTEL Programming in Java
+
 
 <br/>
 
