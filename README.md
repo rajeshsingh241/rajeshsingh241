@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
-<h3 align="center">B.Tech ECE @ IIIT Jabalpur | Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">B.Tech ECE @ IIIT Jabalpur | Full Stack Developer</h3>
 
 <br/>
 
 ## 🚀 About Me
 - 🎓 Third-year B.Tech student in Electronics and Communication Engineering at **IIIT Jabalpur**
-- 🌱 Currently contributing to **CNCF open source** projects (Headlamp, Kmesh)
 - 💻 Passionate about **Full Stack Development**, **Machine Learning**, and **Cloud Native** technologies
-- 🏆 Applying for **LFX Mentorship 2026 Term 2** — Integrating Kmesh into Headlamp UI
 - ⚡ Fun fact: I debug better at night
 
 <br/>
@@ -30,7 +28,7 @@
 
 **Machine Learning:**
 
-![Python](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -59,7 +57,10 @@
 
 <br/>
 
-
+## 🏆 Achievements
+- 🥇 Solved **400+ problems** on LeetCode, Codeforces and GeeksforGeeks
+- 🎖️ **Top 7%** in NPTEL IoT Certification Exam
+- 🏅 **Top 2%** nationwide in NPTEL Programming in Java
 
 <br/>
 
@@ -76,11 +77,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsingh241&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<br/>
-
-## 🌐 Open Source Contributions
-- 🔧 **kubernetes-sigs/headlamp** — Fixed react-hooks/exhaustive-deps violation ([PR #5689](https://github.com/kubernetes-sigs/headlamp/pull/5689))
 
 <br/>
 
