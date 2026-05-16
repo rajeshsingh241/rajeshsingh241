@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Singh</h1>
 <h3 align="center">B.Tech ECE @ IIIT Jabalpur | Full Stack Developer</h3>
 
 <br/>
