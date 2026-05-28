@@ -15,19 +15,10 @@
 - 🎓 Third-year B.Tech student in **Electronics and Communication Engineering** at **IIIT Jabalpur**
 - 🌐 Open Source Contributor to **[kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)** (CNCF project)
 - 💻 Passionate about **Full Stack Development**, **Machine Learning**, and **Cloud Native** technologies
-- 🏆 Solved **400+ problems** on LeetCode, Codeforces and GeeksforGeeks
-- 🥇 Top **2%** nationwide in NPTEL Programming in Java | Top **7%** in NPTEL IoT
 - ⚡ Fun fact: I debug better at night
 
 ---
 
-## 🌐 Open Source Contributions
-
-| Repository | PR | Description | Status |
-|---|---|---|---|
-| **kubernetes-sigs/headlamp** | [#5689](https://github.com/kubernetes-sigs/headlamp/pull/5689) | Fix react-hooks/exhaustive-deps in ShowHideLabel | ✅ Merged |
-| **kubernetes-sigs/headlamp** | [#5789](https://github.com/kubernetes-sigs/headlamp/pull/5789) | Handle invalid timezone in localeDate to prevent Chrome crash | 🔄 In Review |
-| **kubernetes-sigs/headlamp** | [#5855](https://github.com/kubernetes-sigs/headlamp/pull/5855) | Guard against undefined name in getDetailsLink | 🔄 In Review |
 
 ---
 
