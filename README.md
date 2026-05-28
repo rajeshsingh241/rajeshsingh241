@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year B.Tech student in **Electronics & Communication Engineering** at **IIIT Jabalpur**
+- 🎓 B.Tech student in **Electronics & Communication Engineering** at **IIIT Jabalpur**
 - 🌐 Open Source Contributor to **[kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)** (CNCF project)
 - 💻 Passionate about **Full Stack Dev**, **ML**, and **Cloud Native**
 - ⚡ Fun fact: I debug better at night
